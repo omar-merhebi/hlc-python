@@ -1,3 +1,4 @@
 .ipynb_checkpoints
+*.ju.py
 .DS_Store
 .idea
